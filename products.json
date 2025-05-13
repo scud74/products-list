@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "images" : "https://www.logees.com/media/catalog/product/cache/6c03d0ca4a55b77a53f63bf96ece8a1f/p/a/passiflora_aurantiaca_1.jpg",
+    "name": "Passiflora aurantiaca",
+    "price": "1.00"
+  },
+  {
+    "id": 2,
+    "images" : "https://www.logees.com/media/catalog/product/cache/6c03d0ca4a55b77a53f63bf96ece8a1f/R/1/R1898-2-large.jpg",
+    "name": "Passiflora incarnata",
+    "price": "5.00"
+  },
+  {
+    "id": 3,
+    "images" : "https://www.logees.com/media/catalog/product/cache/6c03d0ca4a55b77a53f63bf96ece8a1f/R/1/R1898-2-large.jpg",
+    "name": "Passiflora hybrid",
+    "price": "3.00"
+  }
+]
